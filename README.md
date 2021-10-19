@@ -1,6 +1,6 @@
 <img src="./RobloxSL.png">
 
 
-<title>Website:</title>
+Website:
 
 #https://roblox-projects.github.io/Roblox-Skid-List/
